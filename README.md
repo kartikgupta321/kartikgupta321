@@ -16,4 +16,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
 </div>
 
+---
+
+### : Watch my contribution graph get eaten by the snake 🐍
 ![snake gif](https://github.com/kartikgupta321/kartikgupta321/blob/output/github-contribution-grid-snake-dark.svg)
