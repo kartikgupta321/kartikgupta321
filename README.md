@@ -1,3 +1,19 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/><br/>
+  <img src="https://komarev.com/ghpvc/?username=kartikgupta321&style=flat-square&color=blue" alt="profile views"/>
+  <a href="https://www.instagram.com/thepiyushmalhotra/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+  ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+  ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+  ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+</div>
+
+
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -18,5 +34,13 @@
 
 ---
 
-### : Watch my contribution graph get eaten by the snake 🐍
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kartikgupta321&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikgupta321&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+---
+
+### Watch my contribution graph get eaten by the snake :🐍
 ![snake gif](https://github.com/kartikgupta321/kartikgupta321/blob/output/github-contribution-grid-snake-dark.svg)
